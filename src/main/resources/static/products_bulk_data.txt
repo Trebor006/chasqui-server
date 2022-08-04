@@ -1,0 +1,660 @@
+﻿{"index":{"_index":"products","_id":"1"}}
+{"title":"Napolitana","type":"pizza"}
+{"index":{"_index":"products","_id":"2"}}
+{"title":"Margarita","type":"pizza"}
+{"index":{"_index":"products","_id":"3"}}
+{"title":"Marinara","type":"pizza"}
+{"index":{"_index":"products","_id":"4"}}
+{"title":"Carbonara","type":"pizza"}
+{"index":{"_index":"products","_id":"5"}}
+{"title":"Barbacoa","type":"pizza"}
+{"index":{"_index":"products","_id":"6"}}
+{"title":"Hawaiana","type":"pizza"}
+{"index":{"_index":"products","_id":"7"}}
+{"title":"Cuatro quesos","type":"pizza"}
+{"index":{"_index":"products","_id":"8"}}
+{"title":"Calzone","type":"pizza"}
+{"index":{"_index":"products","_id":"9"}}
+{"title":"Pepperoni","type":"pizza"}
+{"index":{"_index":"products","_id":"10"}}
+{"title":"Prosciutto","type":"pizza"}
+{"index":{"_index":"products","_id":"11"}}
+{"title":"Caprichosa","type":"pizza"}
+{"index":{"_index":"products","_id":"12"}}
+{"title":"Mexicana","type":"pizza"}
+{"index":{"_index":"products","_id":"13"}}
+{"title":"Pizza de chocolate","type":"pizza"}
+{"index":{"_index":"products","_id":"14"}}
+{"title":"Lahmacun","type":"pizza"}
+{"index":{"_index":"products","_id":"15"}}
+{"title":"Pizza con base de coliflor","type":"pizza"}
+{"index":{"_index":"products","_id":"16"}}
+{"title":"Silpancho","type":"comida nacional"}
+{"index":{"_index":"products","_id":"17"}}
+{"title":"Sándwich de chola","type":"comida nacional"}
+{"index":{"_index":"products","_id":"18"}}
+{"title":"Pique macho","type":"comida nacional"}
+{"index":{"_index":"products","_id":"19"}}
+{"title":"Salteñas","type":"comida nacional"}
+{"index":{"_index":"products","_id":"20"}}
+{"title":"Sonso","type":"comida nacional"}
+{"index":{"_index":"products","_id":"21"}}
+{"title":"Majadito","type":"comida nacional"}
+{"index":{"_index":"products","_id":"22"}}
+{"title":"Picante de pollo","type":"comida nacional"}
+{"index":{"_index":"products","_id":"23"}}
+{"title":"Sopa de Mani","type":"comida nacional"}
+{"index":{"_index":"products","_id":"24"}}
+{"title":"Ají de fideos","type":"comida nacional"}
+{"index":{"_index":"products","_id":"25"}}
+{"title":"Locro","type":"comida nacional"}
+{"index":{"_index":"products","_id":"26"}}
+{"title":"Bacon (Panceta ahumada)","type":"carnes"}
+{"index":{"_index":"products","_id":"27"}}
+{"title":"Butifarra cocida","type":"carnes"}
+{"index":{"_index":"products","_id":"28"}}
+{"title":"Cabrito","type":"carnes"}
+{"index":{"_index":"products","_id":"29"}}
+{"title":"Cerdo, chuleta","type":"carnes"}
+{"index":{"_index":"products","_id":"30"}}
+{"title":"Cerdo, hígado","type":"carnes"}
+{"index":{"_index":"products","_id":"31"}}
+{"title":"Cerdo, lomo","type":"carnes"}
+{"index":{"_index":"products","_id":"32"}}
+{"title":"Chicharrón","type":"carnes"}
+{"index":{"_index":"products","_id":"33"}}
+{"title":"Chorizo","type":"carnes"}
+{"index":{"_index":"products","_id":"34"}}
+{"title":"Ciervo","type":"carnes"}
+{"index":{"_index":"products","_id":"35"}}
+{"title":"Codorniz y perdiz","type":"carnes"}
+{"index":{"_index":"products","_id":"36"}}
+{"title":"Conejo, liebre","type":"carnes"}
+{"index":{"_index":"products","_id":"37"}}
+{"title":"Cordero lechón","type":"carnes"}
+{"index":{"_index":"products","_id":"38"}}
+{"title":"Cordero pierna","type":"carnes"}
+{"index":{"_index":"products","_id":"39"}}
+{"title":"Cordero, costillas","type":"carnes"}
+{"index":{"_index":"products","_id":"40"}}
+{"title":"Cordero, hígado","type":"carnes"}
+{"index":{"_index":"products","_id":"41"}}
+{"title":"Gallina","type":"carnes"}
+{"index":{"_index":"products","_id":"42"}}
+{"title":"Hamburguesa","type":"carnes"}
+{"index":{"_index":"products","_id":"43"}}
+{"title":"Jabalí","type":"carnes"}
+{"index":{"_index":"products","_id":"44"}}
+{"title":"Jamón","type":"carnes"}
+{"index":{"_index":"products","_id":"45"}}
+{"title":"Jamón cocido","type":"carnes"}
+{"index":{"_index":"products","_id":"46"}}
+{"title":"Jamón crudo","type":"carnes"}
+{"index":{"_index":"products","_id":"47"}}
+{"title":"Jamón York","type":"carnes"}
+{"index":{"_index":"products","_id":"48"}}
+{"title":"Lengua de vaca","type":"carnes"}
+{"index":{"_index":"products","_id":"49"}}
+{"title":"Lomo embuchado","type":"carnes"}
+{"index":{"_index":"products","_id":"50"}}
+{"title":"Pato","type":"carnes"}
+{"index":{"_index":"products","_id":"51"}}
+{"title":"Pavo, Muslo","type":"carnes"}
+{"index":{"_index":"products","_id":"52"}}
+{"title":"Pavo, Pechuga","type":"carnes"}
+{"index":{"_index":"products","_id":"53"}}
+{"title":"Perdiz","type":"carnes"}
+{"index":{"_index":"products","_id":"54"}}
+{"title":"Pies de cerdo","type":"carnes"}
+{"index":{"_index":"products","_id":"55"}}
+{"title":"Pollo, Hígado","type":"carnes"}
+{"index":{"_index":"products","_id":"56"}}
+{"title":"Pollo, Muslo","type":"carnes"}
+{"index":{"_index":"products","_id":"57"}}
+{"title":"Pollo","type":"carnes"}
+{"index":{"_index":"products","_id":"58"}}
+{"title":"Ternera","type":"carnes"}
+{"index":{"_index":"products","_id":"59"}}
+{"title":"Ternera, chuleta","type":"carnes"}
+{"index":{"_index":"products","_id":"60"}}
+{"title":"Ternera, hígado","type":"carnes"}
+{"index":{"_index":"products","_id":"61"}}
+{"title":"Ternera, lengua","type":"carnes"}
+{"index":{"_index":"products","_id":"62"}}
+{"title":"Ternera, riñón","type":"carnes"}
+{"index":{"_index":"products","_id":"63"}}
+{"title":"Ternera, sesos","type":"carnes"}
+{"index":{"_index":"products","_id":"64"}}
+{"title":"Ternera, solomillo","type":"carnes"}
+{"index":{"_index":"products","_id":"65"}}
+{"title":"Tira de asado","type":"carnes"}
+{"index":{"_index":"products","_id":"66"}}
+{"title":"Tripas","type":"carnes"}
+{"index":{"_index":"products","_id":"67"}}
+{"title":"Salami","type":"embutidos"}
+{"index":{"_index":"products","_id":"68"}}
+{"title":"Salchicha Frankfurt","type":"embutidos"}
+{"index":{"_index":"products","_id":"69"}}
+{"title":"Salchichón","type":"embutidos"}
+{"index":{"_index":"products","_id":"70"}}
+{"title":"Butifarra, salchicha fresca","type":"embutidos"}
+{"index":{"_index":"products","_id":"71"}}
+{"title":"Mortadela","type":"embutidos"}
+{"index":{"_index":"products","_id":"72"}}
+{"title":"Aceitunas negras","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"73"}}
+{"title":"Aceitunas verdes","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"74"}}
+{"title":"Acelgas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"75"}}
+{"title":"Ajos","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"76"}}
+{"title":"Alcachofas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"77"}}
+{"title":"Apio","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"78"}}
+{"title":"Berenjena","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"79"}}
+{"title":"Berros","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"80"}}
+{"title":"Brócoli","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"81"}}
+{"title":"Calabacín","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"82"}}
+{"title":"Calabaza","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"83"}}
+{"title":"Cebolla","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"84"}}
+{"title":"Cebolla tierna","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"85"}}
+{"title":"Champiñón y otras setas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"86"}}
+{"title":"Col","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"87"}}
+{"title":"Col de Bruselas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"88"}}
+{"title":"Coliflor","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"89"}}
+{"title":"Endibia","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"90"}}
+{"title":"Escarola","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"91"}}
+{"title":"Espárragos","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"92"}}
+{"title":"Espárragos en lata","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"93"}}
+{"title":"Espinaca","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"94"}}
+{"title":"Espinacas congeladas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"95"}}
+{"title":"Habas tiernas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"96"}}
+{"title":"Hinojo","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"97"}}
+{"title":"Lechuga","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"98"}}
+{"title":"Nabos","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"99"}}
+{"title":"Papas cocidas","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"100"}}
+{"title":"Pepino","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"101"}}
+{"title":"Perejil","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"102"}}
+{"title":"Pimiento","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"103"}}
+{"title":"Porotos verdes","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"104"}}
+{"title":"Puerros","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"105"}}
+{"title":"Rábanos","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"106"}}
+{"title":"Remolacha","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"107"}}
+{"title":"Repollo","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"108"}}
+{"title":"Rúcula","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"109"}}
+{"title":"Soja, Brotes de","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"110"}}
+{"title":"Tomate triturado en conserva","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"111"}}
+{"title":"Tomates","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"112"}}
+{"title":"Trufa","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"113"}}
+{"title":"Zanahoria","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"114"}}
+{"title":"Zumo de tomate","type":"verduras y hortalizas"}
+{"index":{"_index":"products","_id":"115"}}
+{"title":"Arándanos","type":"frutas"}
+{"index":{"_index":"products","_id":"116"}}
+{"title":"Caqui","type":"frutas"}
+{"index":{"_index":"products","_id":"117"}}
+{"title":"Cereza","type":"frutas"}
+{"index":{"_index":"products","_id":"118"}}
+{"title":"Chirimoya","type":"frutas"}
+{"index":{"_index":"products","_id":"119"}}
+{"title":"Ciruela","type":"frutas"}
+{"index":{"_index":"products","_id":"120"}}
+{"title":"Ciruela seca","type":"frutas"}
+{"index":{"_index":"products","_id":"121"}}
+{"title":"Coco","type":"frutas"}
+{"index":{"_index":"products","_id":"122"}}
+{"title":"Dátil","type":"frutas"}
+{"index":{"_index":"products","_id":"123"}}
+{"title":"Dátil seco","type":"frutas"}
+{"index":{"_index":"products","_id":"124"}}
+{"title":"Frambuesa","type":"frutas"}
+{"index":{"_index":"products","_id":"125"}}
+{"title":"Fresas","type":"frutas"}
+{"index":{"_index":"products","_id":"126"}}
+{"title":"Granada","type":"frutas"}
+{"index":{"_index":"products","_id":"127"}}
+{"title":"Grosella","type":"frutas"}
+{"index":{"_index":"products","_id":"128"}}
+{"title":"Higos","type":"frutas"}
+{"index":{"_index":"products","_id":"129"}}
+{"title":"Higos secos","type":"frutas"}
+{"index":{"_index":"products","_id":"130"}}
+{"title":"Kiwi","type":"frutas"}
+{"index":{"_index":"products","_id":"131"}}
+{"title":"Limón","type":"frutas"}
+{"index":{"_index":"products","_id":"132"}}
+{"title":"Mandarina","type":"frutas"}
+{"index":{"_index":"products","_id":"133"}}
+{"title":"Mango","type":"frutas"}
+{"index":{"_index":"products","_id":"134"}}
+{"title":"Manzana","type":"frutas"}
+{"index":{"_index":"products","_id":"135"}}
+{"title":"Melón","type":"frutas"}
+{"index":{"_index":"products","_id":"136"}}
+{"title":"Mora","type":"frutas"}
+{"index":{"_index":"products","_id":"137"}}
+{"title":"Naranja","type":"frutas"}
+{"index":{"_index":"products","_id":"138"}}
+{"title":"Nectarina","type":"frutas"}
+{"index":{"_index":"products","_id":"139"}}
+{"title":"Nísperos","type":"frutas"}
+{"index":{"_index":"products","_id":"140"}}
+{"title":"Papaya","type":"frutas"}
+{"index":{"_index":"products","_id":"141"}}
+{"title":"Pera","type":"frutas"}
+{"index":{"_index":"products","_id":"142"}}
+{"title":"Piña","type":"frutas"}
+{"index":{"_index":"products","_id":"143"}}
+{"title":"Piña en almíbar","type":"frutas"}
+{"index":{"_index":"products","_id":"144"}}
+{"title":"Plátano","type":"frutas"}
+{"index":{"_index":"products","_id":"145"}}
+{"title":"Pomelo","type":"frutas"}
+{"index":{"_index":"products","_id":"146"}}
+{"title":"Sandía","type":"frutas"}
+{"index":{"_index":"products","_id":"147"}}
+{"title":"Uva","type":"frutas"}
+{"index":{"_index":"products","_id":"148"}}
+{"title":"Uva pasa","type":"frutas"}
+{"index":{"_index":"products","_id":"149"}}
+{"title":"Zumo de fruta","type":"frutas"}
+{"index":{"_index":"products","_id":"150"}}
+{"title":"Zumo de Naranja","type":"frutas"}
+{"index":{"_index":"products","_id":"151"}}
+{"title":"Clara","type":"lacteos"}
+{"index":{"_index":"products","_id":"152"}}
+{"title":"Huevo duro","type":"lacteos"}
+{"index":{"_index":"products","_id":"153"}}
+{"title":"Huevo entero","type":"lacteos"}
+{"index":{"_index":"products","_id":"154"}}
+{"title":"Yema","type":"lacteos"}
+{"index":{"_index":"products","_id":"155"}}
+{"title":"Leche de Soya","type":"lacteos"}
+{"index":{"_index":"products","_id":"156"}}
+{"title":"Leche deslactosada","type":"lacteos"}
+{"index":{"_index":"products","_id":"157"}}
+{"title":"Leche deslactosada Chocolate","type":"lacteos"}
+{"index":{"_index":"products","_id":"158"}}
+{"title":"Leche de Chocolate","type":"lacteos"}
+{"index":{"_index":"products","_id":"159"}}
+{"title":"Leche con Cafe","type":"lacteos"}
+{"index":{"_index":"products","_id":"160"}}
+{"title":"Leche","type":"lacteos"}
+{"index":{"_index":"products","_id":"161"}}
+{"title":"Leche Frutilla","type":"lacteos"}
+{"index":{"_index":"products","_id":"162"}}
+{"title":"Pan de Batalla","type":"panaderia"}
+{"index":{"_index":"products","_id":"163"}}
+{"title":"Pan Vallegrandino","type":"panaderia"}
+{"index":{"_index":"products","_id":"164"}}
+{"title":"Chama","type":"panaderia"}
+{"index":{"_index":"products","_id":"165"}}
+{"title":"Pan de Leche","type":"panaderia"}
+{"index":{"_index":"products","_id":"166"}}
+{"title":"Con harina","type":"panaderia"}
+{"index":{"_index":"products","_id":"167"}}
+{"title":"Desodorante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"168"}}
+{"title":"Pasta de dientes","type":"higiene personal"}
+{"index":{"_index":"products","_id":"169"}}
+{"title":"Kolino","type":"higiene personal"}
+{"index":{"_index":"products","_id":"170"}}
+{"title":"Colgate","type":"higiene personal"}
+{"index":{"_index":"products","_id":"171"}}
+{"title":"Crema hidratante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"172"}}
+{"title":"Exfoliante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"173"}}
+{"title":"Gel","type":"higiene personal"}
+{"index":{"_index":"products","_id":"174"}}
+{"title":"Toallitas desmaquillantes","type":"higiene personal"}
+{"index":{"_index":"products","_id":"175"}}
+{"title":"Espuma de afeitar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"176"}}
+{"title":"Perfumes y colonias","type":"higiene personal"}
+{"index":{"_index":"products","_id":"177"}}
+{"title":"Gel íntimo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"178"}}
+{"title":"Enjuague bucal","type":"higiene personal"}
+{"index":{"_index":"products","_id":"179"}}
+{"title":"Jabón facial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"180"}}
+{"title":"Jabón corporal","type":"higiene personal"}
+{"index":{"_index":"products","_id":"181"}}
+{"title":"Jabón abrasivo /exfoliante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"182"}}
+{"title":"Jabón desodorante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"183"}}
+{"title":"Jabón p/bebés y niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"184"}}
+{"title":"Jabón uso íntimo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"185"}}
+{"title":"Jabón antibacterial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"186"}}
+{"title":"Shampoo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"187"}}
+{"title":"Shampoo con acondicionador","type":"higiene personal"}
+{"index":{"_index":"products","_id":"188"}}
+{"title":"Shampoo colorante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"189"}}
+{"title":"Shampoo anticaspa/anticaída","type":"higiene personal"}
+{"index":{"_index":"products","_id":"190"}}
+{"title":"Acondicionador/crema de enjuague/enjuague capilar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"191"}}
+{"title":"Acondicionador con acción anticaspa/anticaída","type":"higiene personal"}
+{"index":{"_index":"products","_id":"192"}}
+{"title":"Tónico/loción capilar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"193"}}
+{"title":"Máscara capilar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"194"}}
+{"title":"Shampoo p/bebés y niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"195"}}
+{"title":"Shampoo con acondicionador p/bebés y niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"196"}}
+{"title":"Acondicionador p/bebés y niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"197"}}
+{"title":"Productos capilares infantiles","type":"higiene personal"}
+{"index":{"_index":"products","_id":"198"}}
+{"title":"Tintura capilar temporaria/progresiva/ Permanente","type":"higiene personal"}
+{"index":{"_index":"products","_id":"199"}}
+{"title":"Enjuague capilar colorante/matizador","type":"higiene personal"}
+{"index":{"_index":"products","_id":"200"}}
+{"title":"Decolorante/aclarante capilar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"201"}}
+{"title":"Agua oxigenada 10 a 40 volúmenes (incluidas las cremosas, excepto las de uso medicinal)","type":"higiene personal"}
+{"index":{"_index":"products","_id":"202"}}
+{"title":"Producto p/ondular los cabellos","type":"higiene personal"}
+{"index":{"_index":"products","_id":"203"}}
+{"title":"Producto p/alisar y/o teñir los cabellos","type":"higiene personal"}
+{"index":{"_index":"products","_id":"204"}}
+{"title":"Neutralizante para permanente","type":"higiene personal"}
+{"index":{"_index":"products","_id":"205"}}
+{"title":"Neutralizante p/alisante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"206"}}
+{"title":"Productos p/fijar, modelar y/o embellecer los cabellos: lacas, fijadores, reparador de puntas, aceite capilar, brillantinas, mousse, cremas y geles p/modelar y asentar los cabellos, restaurador capilar, máscara capilar y humidificador capilar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"207"}}
+{"title":"Dentífricos, cremas y geles dentales. Protección anticaries, antiplaca y antisarro.","type":"higiene personal"}
+{"index":{"_index":"products","_id":"208"}}
+{"title":"Dentífrico blanqueador/blanqueador dental químico","type":"higiene personal"}
+{"index":{"_index":"products","_id":"209"}}
+{"title":"Dentífrico para dientes sensibles","type":"higiene personal"}
+{"index":{"_index":"products","_id":"210"}}
+{"title":"Dentífrico infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"211"}}
+{"title":"Enjuague bucal, protección antiplaca","type":"higiene personal"}
+{"index":{"_index":"products","_id":"212"}}
+{"title":"Enjuague bucal antibacterial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"213"}}
+{"title":"Enjuage bucal infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"214"}}
+{"title":"Desodorante bucal, aromatizante bucal","type":"higiene personal"}
+{"index":{"_index":"products","_id":"215"}}
+{"title":"Desodorante/antitranspirante axilar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"216"}}
+{"title":"Colonia desodorante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"217"}}
+{"title":"Desodorante corporal","type":"higiene personal"}
+{"index":{"_index":"products","_id":"218"}}
+{"title":"Desodorante íntimo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"219"}}
+{"title":"Desodorante /antitranspirante pédico","type":"higiene personal"}
+{"index":{"_index":"products","_id":"220"}}
+{"title":"Talco/polvo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"221"}}
+{"title":"Talco/polvo desodorante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"222"}}
+{"title":"Talco/fécula infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"223"}}
+{"title":"Talco antibacterial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"224"}}
+{"title":"Talco de uso íntimo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"225"}}
+{"title":"Cremas, gel o talco p/antes o después de afeitar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"226"}}
+{"title":"Loción o espuma p/antes o después de afeitar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"227"}}
+{"title":"Delineador p/labios","type":"higiene personal"}
+{"index":{"_index":"products","_id":"228"}}
+{"title":"Delineador p/ojos y cejas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"229"}}
+{"title":"Protector labial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"230"}}
+{"title":"Labial con fotoprotector","type":"higiene personal"}
+{"index":{"_index":"products","_id":"231"}}
+{"title":"Lápiz labial y Brillo labial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"232"}}
+{"title":"Lápiz labial y brillo labial infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"233"}}
+{"title":"Sombra para párpados","type":"higiene personal"}
+{"index":{"_index":"products","_id":"234"}}
+{"title":"Máscara p/ pestañas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"235"}}
+{"title":"Modelador/fijador para cejas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"236"}}
+{"title":"Corrector de ojeras","type":"higiene personal"}
+{"index":{"_index":"products","_id":"237"}}
+{"title":"Kohol","type":"higiene personal"}
+{"index":{"_index":"products","_id":"238"}}
+{"title":"Crema/gel/loción para párpados","type":"higiene personal"}
+{"index":{"_index":"products","_id":"239"}}
+{"title":"Productos p/el área de los ojos","type":"higiene personal"}
+{"index":{"_index":"products","_id":"240"}}
+{"title":"Correctivo facial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"241"}}
+{"title":"Blush-rubor (polvo o compacto)","type":"higiene personal"}
+{"index":{"_index":"products","_id":"242"}}
+{"title":"Blush-rubor infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"243"}}
+{"title":"Protector solar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"244"}}
+{"title":"Protector solar para niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"245"}}
+{"title":"Bronceador","type":"higiene personal"}
+{"index":{"_index":"products","_id":"246"}}
+{"title":"Bronceador con SPF declarado","type":"higiene personal"}
+{"index":{"_index":"products","_id":"247"}}
+{"title":"Activador/acelerador del bronceado","type":"higiene personal"}
+{"index":{"_index":"products","_id":"248"}}
+{"title":"Autobronceante/bronceador simulatorio","type":"higiene personal"}
+{"index":{"_index":"products","_id":"249"}}
+{"title":"Toallitas húmedas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"250"}}
+{"title":"Toallitas húmedas p/higiene infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"251"}}
+{"title":"Emulsión a base de óleo calcáreo u otro producto destinado para la limpieza/higiene infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"252"}}
+{"title":"Crema, loción, gel, para el rostro con finalidad hidratante, humectante, antiarrugas.","type":"higiene personal"}
+{"index":{"_index":"products","_id":"253"}}
+{"title":"Máscara facial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"254"}}
+{"title":"Crema, loción, gel y aceite para limpieza facial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"255"}}
+{"title":"Crema, loción, gel, máscara o aceite con acción exfoliante mecánica para el cuerpo (peeling mecánico)","type":"higiene personal"}
+{"index":{"_index":"products","_id":"256"}}
+{"title":"Crema, loción, gel, máscara o aceite con acción exfoliante mecánica para el rostro (peeling mecánico","type":"higiene personal"}
+{"index":{"_index":"products","_id":"257"}}
+{"title":"Crema, loción, gel, máscara o aceite con acción exfoliante química para cuerpo y/o rostro (peeling químico)","type":"higiene personal"}
+{"index":{"_index":"products","_id":"258"}}
+{"title":"Crema, loción, gel, máscara o aceite para las manos, piernas, pies o cuerpo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"259"}}
+{"title":"Crema, loción, gel y aceite p/niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"260"}}
+{"title":"Demaquillante","type":"higiene personal"}
+{"index":{"_index":"products","_id":"261"}}
+{"title":"Depilatorio mecánico/epilatorio","type":"higiene personal"}
+{"index":{"_index":"products","_id":"262"}}
+{"title":"Depilatorio químico","type":"higiene personal"}
+{"index":{"_index":"products","_id":"263"}}
+{"title":"Base de maquillaje facial","type":"higiene personal"}
+{"index":{"_index":"products","_id":"264"}}
+{"title":"Base de maquillaje corporal","type":"higiene personal"}
+{"index":{"_index":"products","_id":"265"}}
+{"title":"Base de maquillaje facial/corporal con FPS declarado en el rótulo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"266"}}
+{"title":"Maquillaje en polvo o compacto","type":"higiene personal"}
+{"index":{"_index":"products","_id":"267"}}
+{"title":"Esmalte, barniz, brillo para uñas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"268"}}
+{"title":"Quitaesmalte/removedor de esmalte","type":"higiene personal"}
+{"index":{"_index":"products","_id":"269"}}
+{"title":"Secante de esmalte","type":"higiene personal"}
+{"index":{"_index":"products","_id":"270"}}
+{"title":"Removedor de cutícula","type":"higiene personal"}
+{"index":{"_index":"products","_id":"271"}}
+{"title":"Ablandador de cutícula","type":"higiene personal"}
+{"index":{"_index":"products","_id":"272"}}
+{"title":"Removedor de manchas de nicotina químico","type":"higiene personal"}
+{"index":{"_index":"products","_id":"273"}}
+{"title":"Producto p/evitar comerse las uñas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"274"}}
+{"title":"Fortalecedor de uñas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"275"}}
+{"title":"Reparador de uñas","type":"higiene personal"}
+{"index":{"_index":"products","_id":"276"}}
+{"title":"Blanqueador p/uñas químico","type":"higiene personal"}
+{"index":{"_index":"products","_id":"277"}}
+{"title":"Esmalte para uñas infantil","type":"higiene personal"}
+{"index":{"_index":"products","_id":"278"}}
+{"title":"Tiras p/ la remoción mecánica de impurezas de la piel","type":"higiene personal"}
+{"index":{"_index":"products","_id":"279"}}
+{"title":"Repelente de insectos (ver reglamentación especial)","type":"higiene personal"}
+{"index":{"_index":"products","_id":"280"}}
+{"title":"Repelente de insectos combinado con protector solar","type":"higiene personal"}
+{"index":{"_index":"products","_id":"281"}}
+{"title":"Productos para baño de inmersión o ducha (sales, aceites, cápsulas de gelatina y baño de espuma)","type":"higiene personal"}
+{"index":{"_index":"products","_id":"282"}}
+{"title":"Agua de colonia, perfume, agua perfumada y extracto","type":"higiene personal"}
+{"index":{"_index":"products","_id":"283"}}
+{"title":"Colonias para bebés y niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"284"}}
+{"title":"Shower gel, shampoo p/ducha, jabón líquido","type":"higiene personal"}
+{"index":{"_index":"products","_id":"285"}}
+{"title":"Shower gel, shampoo p/ducha, jabón líquido p/niños","type":"higiene personal"}
+{"index":{"_index":"products","_id":"286"}}
+{"title":"Gel de uso íntimo","type":"higiene personal"}
+{"index":{"_index":"products","_id":"287"}}
+{"title":"Blanqueador de piel","type":"higiene personal"}
+{"index":{"_index":"products","_id":"288"}}
+{"title":"Producto para piel acneica","type":"higiene personal"}
+{"index":{"_index":"products","_id":"289"}}
+{"title":"Nieves de carnaval","type":"higiene personal"}
+{"index":{"_index":"products","_id":"290"}}
+{"title":"Paño jabonoso seco","type":"higiene personal"}
+{"index":{"_index":"products","_id":"291"}}
+{"title":"Parches dérmicos","type":"higiene personal"}
+{"index":{"_index":"products","_id":"292"}}
+{"title":"Royal Canini","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"293"}}
+{"title":"Royal Canin Perros Medianos","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"294"}}
+{"title":"Pro Plan","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"295"}}
+{"title":"Pro Plan mini","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"296"}}
+{"title":"Dogchow","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"297"}}
+{"title":"Eukanuba Adulto Raza Mediana","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"298"}}
+{"title":"Instinct Be Natural Receta de Cordero","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"299"}}
+{"title":"Beneful Purina Original","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"300"}}
+{"title":"Nupec Adulto","type":"alimento mascotas"}
+{"index":{"_index":"products","_id":"301"}}
+{"title":"Limpiador con acción desinfectante","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"302"}}
+{"title":"Alcohol Multipropósitos","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"303"}}
+{"title":"Toallas húmedas desinfectantes y desengrasantes","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"304"}}
+{"title":"Limpiavidrios","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"305"}}
+{"title":"Antisarro","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"306"}}
+{"title":"Brilla muebles","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"307"}}
+{"title":"Detergente en Polvo","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"308"}}
+{"title":"Enzimático","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"309"}}
+{"title":"Escoba","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"310"}}
+{"title":"Pala recogedora","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"311"}}
+{"title":"Mopa","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"312"}}
+{"title":"Trapeador","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"313"}}
+{"title":"Desinfectante de frutas y legumbres","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"314"}}
+{"title":"Lavandina","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"315"}}
+{"title":"Limpiador de toilets","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"316"}}
+{"title":"Limpiador de baños","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"317"}}
+{"title":"Limpiador anti-bacteriano","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"318"}}
+{"title":"Limpiador de vidrios","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"319"}}
+{"title":"Limpiador de pisos","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"320"}}
+{"title":"Detergentes para el lavado de ropas","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"321"}}
+{"title":"Suavizante para ropas","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"322"}}
+{"title":"Líquido lavaplatos","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"323"}}
+{"title":"Quitamanchas","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"324"}}
+{"title":"Jabón líquido","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"325"}}
+{"title":"sanitizante de manos","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"326"}}
+{"title":"Hipoclorito de sodio o lejía","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"327"}}
+{"title":"Quitamanchas","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"328"}}
+{"title":"Cepillo para el inodoro","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"329"}}
+{"title":"Lustramuebles","type":"articulo de limpieza"}
+{"index":{"_index":"products","_id":"330"}}
+{"title":"Guantes de goma","type":"articulo de limpieza"}

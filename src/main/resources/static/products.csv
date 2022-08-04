@@ -1,0 +1,331 @@
+title,type
+Napolitana,pizza
+Margarita,pizza
+Marinara,pizza
+Carbonara,pizza
+Barbacoa,pizza
+Hawaiana,pizza
+Cuatro quesos,pizza
+Calzone,pizza
+Pepperoni,pizza
+Prosciutto,pizza
+Caprichosa,pizza
+Mexicana,pizza
+Pizza de chocolate,pizza
+Lahmacun,pizza
+Pizza con base de coliflor,pizza
+Silpancho,comida nacional
+Sándwich de chola,comida nacional
+Pique macho,comida nacional
+Salteñas,comida nacional
+Sonso,comida nacional
+Majadito,comida nacional
+Picante de pollo,comida nacional
+Sopa de Mani,comida nacional
+Ají de fideos,comida nacional
+Locro,comida nacional
+Bacon (Panceta ahumada),carnes
+Butifarra cocida,carnes
+Cabrito,carnes
+"Cerdo, chuleta",carnes
+"Cerdo, hígado",carnes
+"Cerdo, lomo",carnes
+Chicharrón,carnes
+Chorizo,carnes
+Ciervo,carnes
+Codorniz y perdiz,carnes
+"Conejo, liebre",carnes
+Cordero lechón,carnes
+Cordero pierna,carnes
+"Cordero, costillas",carnes
+"Cordero, hígado",carnes
+Gallina,carnes
+Hamburguesa,carnes
+Jabalí,carnes
+Jamón,carnes
+Jamón cocido,carnes
+Jamón crudo,carnes
+Jamón York,carnes
+Lengua de vaca,carnes
+Lomo embuchado,carnes
+Pato,carnes
+"Pavo, Muslo",carnes
+"Pavo, Pechuga",carnes
+Perdiz,carnes
+Pies de cerdo,carnes
+"Pollo, Hígado",carnes
+"Pollo, Muslo",carnes
+Pollo,carnes
+Ternera,carnes
+"Ternera, chuleta",carnes
+"Ternera, hígado",carnes
+"Ternera, lengua",carnes
+"Ternera, riñón",carnes
+"Ternera, sesos",carnes
+"Ternera, solomillo",carnes
+Tira de asado,carnes
+Tripas,carnes
+Salami,embutidos
+Salchicha Frankfurt,embutidos
+Salchichón,embutidos
+"Butifarra, salchicha fresca",embutidos
+Mortadela,embutidos
+Aceitunas negras,verduras y hortalizas
+Aceitunas verdes,verduras y hortalizas
+Acelgas,verduras y hortalizas
+Ajos,verduras y hortalizas
+Alcachofas,verduras y hortalizas
+Apio,verduras y hortalizas
+Berenjena,verduras y hortalizas
+Berros,verduras y hortalizas
+Brócoli,verduras y hortalizas
+Calabacín,verduras y hortalizas
+Calabaza,verduras y hortalizas
+Cebolla,verduras y hortalizas
+Cebolla tierna,verduras y hortalizas
+Champiñón y otras setas,verduras y hortalizas
+Col,verduras y hortalizas
+Col de Bruselas,verduras y hortalizas
+Coliflor,verduras y hortalizas
+Endibia,verduras y hortalizas
+Escarola,verduras y hortalizas
+Espárragos,verduras y hortalizas
+Espárragos en lata,verduras y hortalizas
+Espinaca,verduras y hortalizas
+Espinacas congeladas,verduras y hortalizas
+Habas tiernas,verduras y hortalizas
+Hinojo,verduras y hortalizas
+Lechuga,verduras y hortalizas
+Nabos,verduras y hortalizas
+Papas cocidas,verduras y hortalizas
+Pepino,verduras y hortalizas
+Perejil,verduras y hortalizas
+Pimiento,verduras y hortalizas
+Porotos verdes,verduras y hortalizas
+Puerros,verduras y hortalizas
+Rábanos,verduras y hortalizas
+Remolacha,verduras y hortalizas
+Repollo,verduras y hortalizas
+Rúcula,verduras y hortalizas
+"Soja, Brotes de",verduras y hortalizas
+Tomate triturado en conserva,verduras y hortalizas
+Tomates,verduras y hortalizas
+Trufa,verduras y hortalizas
+Zanahoria,verduras y hortalizas
+Zumo de tomate,verduras y hortalizas
+Arándanos,frutas
+Caqui,frutas
+Cereza,frutas
+Chirimoya,frutas
+Ciruela,frutas
+Ciruela seca,frutas
+Coco,frutas
+Dátil,frutas
+Dátil seco,frutas
+Frambuesa,frutas
+Fresas,frutas
+Granada,frutas
+Grosella,frutas
+Higos,frutas
+Higos secos,frutas
+Kiwi,frutas
+Limón,frutas
+Mandarina,frutas
+Mango,frutas
+Manzana,frutas
+Melón,frutas
+Mora,frutas
+Naranja,frutas
+Nectarina,frutas
+Nísperos,frutas
+Papaya,frutas
+Pera,frutas
+Piña,frutas
+Piña en almíbar,frutas
+Plátano,frutas
+Pomelo,frutas
+Sandía,frutas
+Uva,frutas
+Uva pasa,frutas
+Zumo de fruta,frutas
+Zumo de Naranja,frutas
+Clara,lacteos
+Huevo duro,lacteos
+Huevo entero,lacteos
+Yema,lacteos
+Leche de Soya,lacteos
+Leche deslactosada,lacteos
+Leche deslactosada Chocolate,lacteos
+Leche de Chocolate,lacteos
+Leche con Cafe,lacteos
+Leche,lacteos
+Leche Frutilla,lacteos
+Pan de Batalla,panaderia
+Pan Vallegrandino,panaderia
+Chama,panaderia
+Pan de Leche,panaderia
+Con harina,panaderia
+Desodorante,higiene personal
+Pasta de dientes,higiene personal
+Kolino,higiene personal
+Colgate,higiene personal
+Crema hidratante,higiene personal
+Exfoliante,higiene personal
+Gel,higiene personal
+Toallitas desmaquillantes,higiene personal
+Espuma de afeitar,higiene personal
+Perfumes y colonias,higiene personal
+Gel íntimo,higiene personal
+Enjuague bucal,higiene personal
+Jabón facial,higiene personal
+Jabón corporal,higiene personal
+Jabón abrasivo /exfoliante,higiene personal
+Jabón desodorante,higiene personal
+Jabón p/bebés y niños,higiene personal
+Jabón uso íntimo,higiene personal
+Jabón antibacterial,higiene personal
+Shampoo,higiene personal
+Shampoo con acondicionador,higiene personal
+Shampoo colorante,higiene personal
+Shampoo anticaspa/anticaída,higiene personal
+Acondicionador/crema de enjuague/enjuague capilar,higiene personal
+Acondicionador con acción anticaspa/anticaída,higiene personal
+Tónico/loción capilar,higiene personal
+Máscara capilar,higiene personal
+Shampoo p/bebés y niños,higiene personal
+Shampoo con acondicionador p/bebés y niños,higiene personal
+Acondicionador p/bebés y niños,higiene personal
+Productos capilares infantiles,higiene personal
+Tintura capilar temporaria/progresiva/ Permanente,higiene personal
+Enjuague capilar colorante/matizador,higiene personal
+Decolorante/aclarante capilar,higiene personal
+"Agua oxigenada 10 a 40 volúmenes (incluidas las cremosas, excepto las de uso medicinal)",higiene personal
+Producto p/ondular los cabellos,higiene personal
+Producto p/alisar y/o teñir los cabellos,higiene personal
+Neutralizante para permanente,higiene personal
+Neutralizante p/alisante,higiene personal
+"Productos p/fijar, modelar y/o embellecer los cabellos: lacas, fijadores, reparador de puntas, aceite capilar, brillantinas, mousse, cremas y geles p/modelar y asentar los cabellos, restaurador capilar, máscara capilar y humidificador capilar",higiene personal
+"Dentífricos, cremas y geles dentales. Protección anticaries, antiplaca y antisarro.",higiene personal
+Dentífrico blanqueador/blanqueador dental químico,higiene personal
+Dentífrico para dientes sensibles,higiene personal
+Dentífrico infantil,higiene personal
+"Enjuague bucal, protección antiplaca",higiene personal
+Enjuague bucal antibacterial,higiene personal
+Enjuage bucal infantil,higiene personal
+"Desodorante bucal, aromatizante bucal",higiene personal
+Desodorante/antitranspirante axilar,higiene personal
+Colonia desodorante,higiene personal
+Desodorante corporal,higiene personal
+Desodorante íntimo,higiene personal
+Desodorante /antitranspirante pédico,higiene personal
+Talco/polvo,higiene personal
+Talco/polvo desodorante,higiene personal
+Talco/fécula infantil,higiene personal
+Talco antibacterial,higiene personal
+Talco de uso íntimo,higiene personal
+"Cremas, gel o talco p/antes o después de afeitar",higiene personal
+Loción o espuma p/antes o después de afeitar,higiene personal
+Delineador p/labios,higiene personal
+Delineador p/ojos y cejas,higiene personal
+Protector labial,higiene personal
+Labial con fotoprotector,higiene personal
+Lápiz labial y Brillo labial,higiene personal
+Lápiz labial y brillo labial infantil,higiene personal
+Sombra para párpados,higiene personal
+Máscara p/ pestañas,higiene personal
+Modelador/fijador para cejas,higiene personal
+Corrector de ojeras,higiene personal
+Kohol,higiene personal
+Crema/gel/loción para párpados,higiene personal
+Productos p/el área de los ojos,higiene personal
+Correctivo facial,higiene personal
+Blush-rubor (polvo o compacto),higiene personal
+Blush-rubor infantil,higiene personal
+Protector solar,higiene personal
+Protector solar para niños,higiene personal
+Bronceador,higiene personal
+Bronceador con SPF declarado,higiene personal
+Activador/acelerador del bronceado,higiene personal
+Autobronceante/bronceador simulatorio,higiene personal
+Toallitas húmedas,higiene personal
+Toallitas húmedas p/higiene infantil,higiene personal
+Emulsión a base de óleo calcáreo u otro producto destinado para la limpieza/higiene infantil,higiene personal
+"Crema, loción, gel, para el rostro con finalidad hidratante, humectante, antiarrugas.",higiene personal
+Máscara facial,higiene personal
+"Crema, loción, gel y aceite para limpieza facial",higiene personal
+"Crema, loción, gel, máscara o aceite con acción exfoliante mecánica para el cuerpo (peeling mecánico)",higiene personal
+"Crema, loción, gel, máscara o aceite con acción exfoliante mecánica para el rostro (peeling mecánico",higiene personal
+"Crema, loción, gel, máscara o aceite con acción exfoliante química para cuerpo y/o rostro (peeling químico)",higiene personal
+"Crema, loción, gel, máscara o aceite para las manos, piernas, pies o cuerpo",higiene personal
+"Crema, loción, gel y aceite p/niños",higiene personal
+Demaquillante,higiene personal
+Depilatorio mecánico/epilatorio,higiene personal
+Depilatorio químico,higiene personal
+Base de maquillaje facial,higiene personal
+Base de maquillaje corporal,higiene personal
+Base de maquillaje facial/corporal con FPS declarado en el rótulo,higiene personal
+Maquillaje en polvo o compacto,higiene personal
+"Esmalte, barniz, brillo para uñas",higiene personal
+Quitaesmalte/removedor de esmalte,higiene personal
+Secante de esmalte,higiene personal
+Removedor de cutícula,higiene personal
+Ablandador de cutícula,higiene personal
+Removedor de manchas de nicotina químico,higiene personal
+Producto p/evitar comerse las uñas,higiene personal
+Fortalecedor de uñas,higiene personal
+Reparador de uñas,higiene personal
+Blanqueador p/uñas químico,higiene personal
+Esmalte para uñas infantil,higiene personal
+Tiras p/ la remoción mecánica de impurezas de la piel,higiene personal
+Repelente de insectos (ver reglamentación especial),higiene personal
+Repelente de insectos combinado con protector solar,higiene personal
+"Productos para baño de inmersión o ducha (sales, aceites, cápsulas de gelatina y baño de espuma)",higiene personal
+"Agua de colonia, perfume, agua perfumada y extracto",higiene personal
+Colonias para bebés y niños,higiene personal
+"Shower gel, shampoo p/ducha, jabón líquido",higiene personal
+"Shower gel, shampoo p/ducha, jabón líquido p/niños",higiene personal
+Gel de uso íntimo,higiene personal
+Blanqueador de piel,higiene personal
+Producto para piel acneica,higiene personal
+Nieves de carnaval,higiene personal
+Paño jabonoso seco,higiene personal
+Parches dérmicos,higiene personal
+Royal Canini,alimento mascotas
+Royal Canin Perros Medianos,alimento mascotas
+Pro Plan,alimento mascotas
+Pro Plan mini,alimento mascotas
+Dogchow,alimento mascotas
+Eukanuba Adulto Raza Mediana,alimento mascotas
+Instinct Be Natural Receta de Cordero,alimento mascotas
+Beneful Purina Original,alimento mascotas
+Nupec Adulto,alimento mascotas
+Limpiador con acción desinfectante,articulo de limpieza
+Alcohol Multipropósitos,articulo de limpieza
+Toallas húmedas desinfectantes y desengrasantes,articulo de limpieza
+Limpiavidrios,articulo de limpieza
+Antisarro,articulo de limpieza
+Brilla muebles,articulo de limpieza
+Detergente en Polvo,articulo de limpieza
+Enzimático,articulo de limpieza
+Escoba,articulo de limpieza
+Pala recogedora,articulo de limpieza
+Mopa,articulo de limpieza
+Trapeador,articulo de limpieza
+Desinfectante de frutas y legumbres,articulo de limpieza
+Lavandina,articulo de limpieza
+Limpiador de toilets,articulo de limpieza
+Limpiador de baños,articulo de limpieza
+Limpiador anti-bacteriano,articulo de limpieza
+Limpiador de vidrios,articulo de limpieza
+Limpiador de pisos,articulo de limpieza
+Detergentes para el lavado de ropas,articulo de limpieza
+Suavizante para ropas,articulo de limpieza
+Líquido lavaplatos,articulo de limpieza
+Quitamanchas,articulo de limpieza
+Jabón líquido,articulo de limpieza
+sanitizante de manos,articulo de limpieza
+Hipoclorito de sodio o lejía,articulo de limpieza
+Quitamanchas,articulo de limpieza
+Cepillo para el inodoro,articulo de limpieza
+Lustramuebles,articulo de limpieza
+Guantes de goma,articulo de limpieza
